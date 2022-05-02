@@ -1,0 +1,13 @@
+body { background-color:  #DFF1D0   ; margin: 0px; }
+.cabezapagina { border: 0px;}
+.titulo1 { color: #2c534c; font-size: xxx-large; text-align: center; text-decoration: underline; margin: 0px; }
+.parrafo1 { text-align: center; font-size: large}
+.imagenpizza { display: block; margin-left: auto; margin-right: auto; width: 700px; height: 480px; }
+.audio1 { display: block; margin-left: auto; margin-right: auto; }
+.ingredientes { text-align: center; }
+.ingredientes2 { text-align: left;  display:inline-block; vertical-align: text-top;}
+.comohacer { text-align: center; text-decoration: underline}
+.comohacer2 { text-align: justify; display:inline-block; }
+.videoymapa { text-align: center; }
+.link { text-align: center; }
+.copyright { text-align: center; }
